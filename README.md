@@ -1,1 +1,1 @@
-# python
+print("hi,我正在学习python")
